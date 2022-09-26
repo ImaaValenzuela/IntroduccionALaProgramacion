@@ -1,0 +1,14 @@
+# Un poco mas sobre programacion 🖥️​
+
+Ya vimos las bases de la programacion, estos siempre los encontraremos en todos los lenguajes de programacion, pero entonces, ¿Que me espera en la programacion? Aprender paradigmas,
+Bases de datos, Desarrollo Web, Frameworks, Librerias, Desarrollo Movil, Desarrollo de Videojuegos, donde nos podremos enfocar.
+
+- Paradigmas : Los paradigmas son propuestas tecnologicas, cada lenguaje puede tener un paradigma diferente. Por el momento solo veremos dos: Programacion Orientada a Objetos y Programacion Estructurada. La programacion estructurada es un paradigma que esta orientado a la mejora del desarrollo de un programa, el codigo se escribe de forma secuencial. La programacion estructurada usa tres estructuras de control: la secuencia, la seleccion y la iteracion; y con solo estos tres elementos se pueden escribir todos los programas. La estructura secuencial: Las instrucciones de un programa se ejecutan una despues de otra en el mismo orden que aparecen en el codigo, Estructura selectiva: En las estructuras selectivas se evalua una condicion y en funcion del resultado indican el bloque del codigo que se ejecuta, Estructura repetitiva: corresponde a la ejecucion repetida de una instruccion mientras se cumpla una condicion. La programacion orientada a objetos es un paradogma de programacion que esta basada en objetos, esto nos permite crear acciones especificas en nuestro programa. En este paradigma tambien existen las clases, un prototipo para crear nuevos objetos.
+
+- Desarrollo Web : Es el desarrollo de sitios web o plataformas, las cuales tienen dos partes importantes, el frontend y el backend. El frontend es todo lo que puede visualizar un usuario en la pagina web, mientras que el backend da funcionalidad a todo lo que exista en el frontend.
+
+- Frameworks y Librerias : Los frameworks nos permite trabajar con uno o varios lenguajes, cuentan con una estructura y dependen mucho del paradigma que se use con el. Por otro lado existen las librerias, estas se usan como complemento al desarrollo.
+
+- Bases de Datos : Las bases de datos sirven para almacenar los datos que manejamos en nuestra plataforma o aplicacion, dando control o estrucutra. Sin datos, no podemos administrar nada. Existen varios tipos de bases de datos, las mas conocidas son las relacionales y no relacionales.  
+
+- Desarrollo Movil : Existen dos formas de desarrollar aplicaciones moviles, de forma nativa o de forma hibrida. Para desarrollar apps de forma nativa, es necesario aprender el lenguaje en el que se desarrolla, por ejemplo, para android existen java o kotlinm mientras que para ios, swift u objetive-c. Mientras que para desarrollar de forma hibrida necesitaremos saber html, css y javascript, funcionando para ambos sistemas. 
